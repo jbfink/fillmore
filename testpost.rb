@@ -1,1 +1,1 @@
-require 'googlecalendar'
+require 'google_calendar'
