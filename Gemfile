@@ -1,2 +1,2 @@
 gem "gmail"
-gem "googlecalendar"
+gem "google_calendar"
